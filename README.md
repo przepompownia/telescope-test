@@ -3,6 +3,7 @@
 
 ## Install and configure extensions
 - Use nightly/master version of neovim
+- run `make start`
 
 ## Run
 - open `./bin/nvim-from-src plugin/vimsettings.vim`
